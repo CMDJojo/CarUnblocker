@@ -19,7 +19,7 @@ the coordinates of where the exit is.
 
 ### Example
 
-![Example](example.png)
+![Example](example.png)  
 This puzzle can be entered as
 
 ```
